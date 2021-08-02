@@ -1,0 +1,7 @@
+C:\Users\DOTNET5\source\repos\ADOEstatus\bin\Debug\ADOEstatus.exe.config
+C:\Users\DOTNET5\source\repos\ADOEstatus\bin\Debug\ADOEstatus.exe
+C:\Users\DOTNET5\source\repos\ADOEstatus\bin\Debug\ADOEstatus.pdb
+C:\Users\DOTNET5\source\repos\ADOEstatus\obj\Debug\ADOEstatus.csprojAssemblyReference.cache
+C:\Users\DOTNET5\source\repos\ADOEstatus\obj\Debug\ADOEstatus.csproj.CoreCompileInputs.cache
+C:\Users\DOTNET5\source\repos\ADOEstatus\obj\Debug\ADOEstatus.exe
+C:\Users\DOTNET5\source\repos\ADOEstatus\obj\Debug\ADOEstatus.pdb
