@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 18.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "00.-CrearTablas", "00.-CrearTablas\00.-CrearTablas.ssmssqlproj", "{CD261261-2043-4B0E-A254-4E8B3C52C074}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "01.- AgregarRegistros", "01.- AgregarRegistros\01.- AgregarRegistros.ssmssqlproj", "{A970B5BB-9646-470D-8287-FB5D0EA084FA}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "02.-Consultas", "02.-Consultas\02.-Consultas.ssmssqlproj", "{684B2135-2946-4B5D-A8F5-CF9D3EF24B6F}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "03.-Actualizaciones", "03.-Actualizaciones\03.-Actualizaciones.ssmssqlproj", "{F9471282-CB06-4448-A792-3F5F4BC37119}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "05.-StoreProcedure", "05.-StoreProcedure\05.-StoreProcedure.ssmssqlproj", "{C78AD4D3-CE51-44B8-885E-4FB8C15BF818}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "04.-Funciones", "04.-Funciones\04.-Funciones.ssmssqlproj", "{110C39CC-A1D4-4ADB-AE63-C7E88FCB01DB}"
+EndProject
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "06.-Triggers", "06.-Triggers\06.-Triggers.ssmssqlproj", "{EF6D8560-5A4C-4FB9-AE5D-EF042B4BF62A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7159E899-B706-4B86-B30A-E2D2110CAE08}.Default|Default.ActiveCfg = Default
+		{CD261261-2043-4B0E-A254-4E8B3C52C074}.Default|Default.ActiveCfg = Default
+		{A970B5BB-9646-470D-8287-FB5D0EA084FA}.Default|Default.ActiveCfg = Default
+		{684B2135-2946-4B5D-A8F5-CF9D3EF24B6F}.Default|Default.ActiveCfg = Default
+		{F9471282-CB06-4448-A792-3F5F4BC37119}.Default|Default.ActiveCfg = Default
+		{C78AD4D3-CE51-44B8-885E-4FB8C15BF818}.Default|Default.ActiveCfg = Default
+		{110C39CC-A1D4-4ADB-AE63-C7E88FCB01DB}.Default|Default.ActiveCfg = Default
+		{EF6D8560-5A4C-4FB9-AE5D-EF042B4BF62A}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF92737A-A0BD-44E2-9A5D-F2B57E7B3726}
+	EndGlobalSection
+EndGlobal
